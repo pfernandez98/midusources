@@ -16,3 +16,9 @@ description: Post para el directo del 9 de enero de 2024
 Nomina al Midu usando el link de abajo.
 
 [Link](https://thestreamerawards.com/nominations)
+
+## Trello
+
+Trello es un software de oficina diseñado para la gestión de actividades y la administración de proyectos de manera colectiva.
+
+[Link](https://trello.com/home)
