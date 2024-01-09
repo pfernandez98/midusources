@@ -58,3 +58,9 @@ Check contrast for your design system
 Visualize and navigate your React application
 
 [Link](https://reactree.dev/)
+
+## Pheral Open Source Link Shortener
+
+Unlimited links & custom slugs
+
+[Link](https://slug.vercel.app/) - [Source code](https://github.com/pheralb/slug)
