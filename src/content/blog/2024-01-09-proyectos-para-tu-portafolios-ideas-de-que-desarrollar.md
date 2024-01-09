@@ -64,3 +64,9 @@ Visualize and navigate your React application
 Unlimited links & custom slugs
 
 [Link](https://slug.vercel.app/) - [Source code](https://github.com/pheralb/slug)
+
+## Algolia Datasets
+
+The goal of this repository is to help you build something with Algolia, even if you don't have data of your own. Maybe you just want to try the API, or maybe you got inspired by some of those datasets to build something of your own.
+
+[Link](https://github.com/algolia/datasets)
