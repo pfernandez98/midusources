@@ -22,3 +22,9 @@ Evento de Midu
 Donde se hacen los dibujitos y esas cosas
 
 [Link](https://excalidraw.com/)
+
+## Squoosh
+
+Squoosh is an image compression web app that reduces image sizes through numerous formats.
+
+[Link](https://squoosh.app/)
