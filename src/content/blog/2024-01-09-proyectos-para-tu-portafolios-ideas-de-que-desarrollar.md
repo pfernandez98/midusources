@@ -22,3 +22,9 @@ Nomina al Midu usando el link de abajo.
 Trello es un software de oficina diseñado para la gestión de actividades y la administración de proyectos de manera colectiva.
 
 [Link](https://trello.com/home)
+
+## Tints.Dev
+
+Palette Generator + API for Tailwind CSS
+
+[Link](https://www.tints.dev/)
