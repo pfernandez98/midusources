@@ -5,7 +5,7 @@ title: Recursos de siempre
 featured: true
 draft: false
 tags:
-  - directos
+  - recursos
 description: Post para agregar recursos que se repiten mucho en los directos de Midu
 ---
 
@@ -16,3 +16,9 @@ description: Post para agregar recursos que se repiten mucho en los directos de 
 Evento de Midu
 
 [Link](https://www.midufest.com/)
+
+## Excalidraw
+
+Donde se hacen los dibujitos y esas cosas
+
+[Link](https://excalidraw.com/)
