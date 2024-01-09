@@ -20,13 +20,13 @@ const { currentPage, totalPages, paginatedPosts, tag, tagName } = Astro.props;
 ---
 
 <Layout title={`Tag: ${tagName} | ${SITE.title}`}>
-  <Header activeNav="tags" />
+  <Header activeNav="etiquetas" />
   <Main
-    pageTitle={[`Tag:`, `${tagName}`]}
+    pageTitle={[`Etiquetas:`, `${tagName}`]}
     titleTransition={tag}
-    pageDesc={`All the articles with the tag "${tagName}".`}
+    pageDesc={`Todos los posts con la etiqueta "${tagName}".`}
   >
-    <h1 slot="title" transition:name={tag}>{`Tag:${tag}`}</h1>
+    <h1 slot="title" transition:name={tag}>{`Etiqueta:${tag}`}</h1>
     <ul>
       {
         paginatedPosts.map(({ data, slug }) => (

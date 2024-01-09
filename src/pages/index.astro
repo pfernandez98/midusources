@@ -22,7 +22,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Mingalaba</h1>
+      <h1>MiduSources</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -40,26 +40,32 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         <span class="sr-only">RSS Feed</span>
       </a>
 
-      <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
-      </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
+      <p class="text-pretty">
+        MiduSources es un blog crado usando la plantilla de <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
+          href="https://astro.build/"
         >
-          README
-        </LinkButton> for more info.
+          Astro
+        </LinkButton> llamada <LinkButton
+          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
+          href="https://github.com/satnaing/astro-paper"
+        >
+          AstroPaper.
+        </LinkButton> La intención es recopilar los links de todos los recursos compartidos
+        en los directos de Midu. Al ser manual, no se garantiza que esté todo, pero
+        se intentará que esté lo más completo posible. Si quieres agregar algún directo
+        o recurso, puedes hacerlo creando un Pull Request en <LinkButton
+          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
+          href="https://github.com/pfernandez98/midusources"
+        >
+          el repositorio.
+        </LinkButton>
       </p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
+            <div class="social-links">Links sociales:</div>
             <Socials />
           </div>
         )
@@ -72,7 +78,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       featuredPosts.length > 0 && (
         <>
           <section id="featured">
-            <h2>Featured</h2>
+            <h2>Destacados</h2>
             <ul>
               {featuredPosts.map(({ data, slug }) => (
                 <Card
@@ -89,7 +95,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     }
 
     <section id="recent-posts">
-      <h2>Recent Posts</h2>
+      <h2>Últimos directos</h2>
       <ul>
         {
           sortedPosts
@@ -108,7 +114,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </ul>
       <div class="all-posts-btn-wrapper">
         <LinkButton href="/posts">
-          All Posts
+          Todos los directos
           <svg xmlns="http://www.w3.org/2000/svg"
             ><path
               d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"
