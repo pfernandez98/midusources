@@ -40,3 +40,15 @@ A collection of resources for web full stack development
 Your API for your e-commerce or shopping website prototype.
 
 [Link](https://fakeapi.platzi.com/)
+
+## Zapy
+
+Test requests in minutes using low-code, and invoke them on your test suits. Everything you need to automate REST API testing.
+
+[Link](https://zapy.dev/)
+
+## Cool Contrast
+
+Check contrast for your design system
+
+[Link](https://coolcontrast.vercel.app/)
