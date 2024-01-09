@@ -11,6 +11,12 @@ description: Post para agregar recursos que se repiten mucho en los directos de 
 
 ## Table of contents
 
+## Curso de Javascript
+
+Curso para aprender paso a paso JavaScript. 100% gratis y práctico. Desde cero.
+
+[Link](https://www.aprendejavascript.dev/)
+
 ## MiduFest
 
 Evento de Midu

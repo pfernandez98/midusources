@@ -70,3 +70,9 @@ Unlimited links & custom slugs
 The goal of this repository is to help you build something with Algolia, even if you don't have data of your own. Maybe you just want to try the API, or maybe you got inspired by some of those datasets to build something of your own.
 
 [Link](https://github.com/algolia/datasets)
+
+## Monkeytype
+
+Monkeytype is a minimalistic and customizable typing test. It features many test modes, an account system to save your typing speed history, and user-configurable features such as themes, sounds, a smooth caret, and more. Monkeytype attempts to emulate a natural typing experience during a typing test by unobtrusively presenting the text prompts and displaying typed characters in place, providing straightforward, real-time feedback on typos, speed, and accuracy.
+
+[Link](https://monkeytype.com/) - [Source code](https://github.com/monkeytypegame/monkeytype)
