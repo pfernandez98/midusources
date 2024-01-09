@@ -28,3 +28,15 @@ Trello es un software de oficina diseñado para la gestión de actividades y la 
 Palette Generator + API for Tailwind CSS
 
 [Link](https://www.tints.dev/)
+
+## Web Full Stack Resources
+
+A collection of resources for web full stack development
+
+[Link](hhttps://resources-app.vercel.app/)
+
+## Fake Store Api
+
+Your API for your e-commerce or shopping website prototype.
+
+[Link](https://fakeapi.platzi.com/)
